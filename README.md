@@ -251,7 +251,7 @@ PS C:\Users\Soufiane Zekaoui\sfsea-level-predictor>
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Soufiane ZEKAOUI**
 - GitHub: [@soufianezekaoui](https://github.com/soufianezekaoui)
 - LinkedIn: [Soufiane Zekaoui](https://linkedin.com/in/soufiane-zekaoui-445b1b352/)
 - Portfolio: [My_Personal_Website.com](https://soufianezekaoui.github.io/my_soufianeze_portfolio/)
